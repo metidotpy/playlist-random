@@ -48,14 +48,6 @@
             EMAIL_HOST_USER = 'youremail@gmail.com'
             EMAIL_HOST_PASSWORD = 'your password'
         ```
-    + #### add this variables to the `.env` the default database engine is postgresql you can change it if you want
-        ```python
-            NAME = 'Your Database Name'
-            USER = 'Your Database Username'
-            PASSWORD = 'Your Password Database'
-            HOST = 'Your Database Host'
-            PORT = 'Your Database Port'
-        ```
 5. ### the fifth step you must create a superuser
    + #### run this command
         ```bash
